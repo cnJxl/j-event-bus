@@ -1,0 +1,12 @@
+{
+  "name": "j-event-bus",
+  "version": "1.0.0",
+  "description": "A Event Bus Library",
+  "main": "/src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "/src/index.d.ts",
+  "author": "cnjxl",
+  "license": "ISC"
+}
